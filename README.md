@@ -11,7 +11,7 @@
 ### Berikut adalah Hasil programnya :
 ![gambar3](ss/hasilnya.png)
 ### Dan flowchartnya sebagai berikut :
-![gambar4](ss/flow.png) <p>Sebelumnya flowchart saya menggunakan bahasa indonesia <p> 1. Kita buat deklarasi masukan PHI,L,K dan tipe datanya real <p>2. Kita deklarasikan jari-jari dengan tipe data Bilangan bulat <p>3. Pilih variabel penugasan , variabelnya PHI dan ekpresinya 22/7 4. Kita akan mencetak sebuah kalimat check output ,isi dengan "kalimat yang ingin kita cetak" 
+![gambar4](ss/flow.png) 
 
 
 
